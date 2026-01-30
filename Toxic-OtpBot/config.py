@@ -1,0 +1,7 @@
+BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+
+RAZORPAY_KEY_ID = "rzp_test_xxxxx"
+RAZORPAY_KEY_SECRET = "xxxxxxxx"
+RAZORPAY_WEBHOOK_SECRET = "webhook_secret_here"
+
+ADMIN_ID = 123456789
